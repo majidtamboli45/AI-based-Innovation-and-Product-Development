@@ -1,1 +1,1 @@
-# AI-based-Innovation-and-Product-Development
+Practical Assignments Of AI-based-Innovation-and-Product-Development
